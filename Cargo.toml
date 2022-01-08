@@ -1,5 +1,5 @@
 [package]
-name = "addTwoNumbers_rust"
+name = "add_two_numbers_rust"
 version = "0.1.0"
 edition = "2021"
 
